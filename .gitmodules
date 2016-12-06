@@ -1,0 +1,3 @@
+[submodule "lib/diff-match-patch-cpp-stl"]
+	path = lib/diff-match-patch-cpp-stl
+	url = https://github.com/cycorld/diff-match-patch-cpp-stl.git
