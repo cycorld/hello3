@@ -15,3 +15,4 @@ int main(int argc, char **argv) {
   wcout << strResult << endl;
   return 0;
 }
+
