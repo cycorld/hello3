@@ -11,7 +11,7 @@ int main(int argc, char **argv) {
   pair<wstring, vector<bool> > out
     = dmp.patch_apply(dmp.patch_fromText(strPatch), str1);
   wstring strResult = out.first;
-  wcout << strResult << endl;
   // here, strResult will equal str2 above.
+  wcout << strResult << endl;
   return 0;
 }
